@@ -1,7 +1,15 @@
 h1 {
-    color: teal;
+    color: orangered;
 }
 
 p {
+    color: saddlebrown;
+}
+
+ul {
+    color: grey;
+}
+
+h2 {
     color: fuchsia;
 }
