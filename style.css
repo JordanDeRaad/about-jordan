@@ -1,15 +1,24 @@
-h1 {
-    color: orangered;
+html{
+    background-color: #000000;}
+
+@font-face {
+    font-family: "Kurrent";
+    src: url(./18thCtrKurStart.ttf) format("truetype"), calibri, sans-serif;
+}
+body{font-family:"Kerrent",sans-serif;
+}
+h1 {font-family:"Kurrent",  sans-serif;
+    color: #7fff00;
 }
 
-p {
-    color: saddlebrown;
+ p{font-family:"Kurrent", sans-serif;
+    color: #7fff00;
 }
 
-ul {
-    color: grey;
+ul {font-family:"Kurrent", sans-serif;
+    color: #7fff00;
 }
 
-h2 {
-    color: fuchsia;
+h2 {font-family:"Kurrent", sans-serif;
+    color: #7fff00;
 }
