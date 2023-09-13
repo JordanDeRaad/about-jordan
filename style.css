@@ -3,7 +3,7 @@ html{
 
 @font-face {
     font-family: "Kurrent";
-    src: url(./18thCtrKurStart.ttf) format("truetype"), calibri, sans-serif;
+    src: url(./18thCtrKurStart.ttf);
 }
 body{font-family:"Kerrent",sans-serif;
 }
